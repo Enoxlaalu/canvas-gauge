@@ -1,0 +1,13 @@
+.wrapper {
+    position: relative;
+    display: flex;
+    align-items: start;
+    justify-content: center;
+    width: 400px;
+    height: 230px;
+    background-color: #000;
+}
+
+.gauge {
+    margin-top: 30px;
+}
